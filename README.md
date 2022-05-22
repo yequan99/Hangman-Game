@@ -1,4 +1,7 @@
 # Welcome to our Hangman Game using React
 
 ## How to run the project
-Simply call 'npm start' in terminal
+Run the following codes in terminal:
+  1. 'npm install styled-components'
+  2. 'npm start'
+ 
