@@ -1,3 +1,4 @@
 # Welcome to our Hangman Game using React
 
-asdasd
+## How to run the project
+Simply call 'npm start' in terminal
