@@ -134,7 +134,6 @@ export default function App() {
       <div className = "game">
         <p>Number of turns left: {count}</p>
         <p><Figure counter = {count} /></p>
-        <p>{word}</p> {/*remove*/}
         <p>Current guess:</p>
         {guess.map((letter, i) => <span key={i}>{letter} </span>)}
         <ToggleButtons
